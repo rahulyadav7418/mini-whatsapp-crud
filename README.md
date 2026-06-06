@@ -1,6 +1,6 @@
 # Mini Whatsapp CRUD Application
 
-A simple WhatsApp-style CRUD application built using:
+While learning MongoDB with Express, A simple WhatsApp-style CRUD application built using:
 
 - Node.js
 - Express.js
@@ -13,6 +13,7 @@ A simple WhatsApp-style CRUD application built using:
 - Create chats
 - View chats
 - Edit message
+- Update message
 - Delete chats
 - Delete confirmation popup
 
